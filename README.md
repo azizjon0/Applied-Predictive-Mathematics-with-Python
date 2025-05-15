@@ -1,7 +1,7 @@
 # Applied-Predictive-Mathematics-with-Python
 
 ![](images/mainPage.png)
-Illustration of key predictive concepts: signal patterns, probability, and feedback loops.
+##### Illustration of key predictive concepts: signal patterns, probability, and feedback loops.
 
 This repository contains practical implementations of core predictive mathematics concepts applied to real-world exam problems using Python.
 
