@@ -1,3 +1,3 @@
 # Applied-Predictive-Mathematics-with-Python
 
-![](/mainPage.png)
+![](images/mainPage.png)
