@@ -25,6 +25,8 @@ Any distribution that **does not follow the bell curve**:
 
 ---
 
+![](images/distribution.png)
+
 ### 🔹 When to Use Normal Distribution?
 
 Use **normal distribution** when:
