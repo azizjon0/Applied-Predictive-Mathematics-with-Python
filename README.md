@@ -20,3 +20,5 @@ This repository contains practical implementations of core predictive mathematic
   - 02_probability.ipynb – problems involving probabilities and Venn diagrams
   - 03_bayes_rule.ipynb – problems using Bayes’ theorem
   - ...
+
+надо закончить
